@@ -1516,7 +1516,29 @@
 			)
 		)
 	)
-	(global_label "CLK_5v"
+	(global_label "MOSI_5v"
+		(shape input)
+		(at 114.3 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "327989c2-cdcc-4278-a34a-745533a46f8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.0261 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CLK_5v_unbuffered"
 		(shape input)
 		(at 194.31 135.89 180)
 		(fields_autoplaced yes)
@@ -1528,7 +1550,7 @@
 		)
 		(uuid "3893d94e-7626-4644-ada3-6ec47c2005ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.612 135.89 0)
+			(at 173.4846 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1582,6 +1604,28 @@
 			)
 		)
 	)
+	(global_label "CLK_5v"
+		(shape input)
+		(at 114.3 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48292301-ac2d-43eb-a63a-fb9efa04e234")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.998 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CS_host_5v"
 		(shape input)
 		(at 194.31 128.27 180)
@@ -1606,7 +1650,7 @@
 	)
 	(global_label "MISO_5v_inputs"
 		(shape input)
-		(at 68.58 163.83 180)
+		(at 41.91 158.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1616,7 +1660,29 @@
 		)
 		(uuid "592f6ca3-d4f5-4990-94e5-04ab5aa80748")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.0807 163.83 0)
+			(at 24.4107 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MOSI_5v_unbuffered"
+		(shape input)
+		(at 99.06 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7bdb9340-5f9e-4b5f-9c61-b48378042c3c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.2065 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1670,7 +1736,7 @@
 			)
 		)
 	)
-	(global_label "MOSI_5v"
+	(global_label "MOSI_5v_unbuffered"
 		(shape input)
 		(at 194.31 130.81 180)
 		(fields_autoplaced yes)
@@ -1682,7 +1748,7 @@
 		)
 		(uuid "9fa62070-da9d-4813-8b7f-17e0660b2aad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 183.5839 130.81 0)
+			(at 172.4565 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1705,6 +1771,28 @@
 		(uuid "ae50f07f-b127-45b7-a188-4f3d9a52d303")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 184.4911 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "cs_165"
+		(shape input)
+		(at 49.53 165.1 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b28d6d63-f049-443b-bfe6-84ccc5313d24")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 174.798 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1754,6 +1842,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MISO_5v"
+		(shape input)
+		(at 57.15 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2751add-3bad-4bc6-a8c0-4ca2dcdc5c62")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.8761 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -1846,6 +1956,28 @@
 			)
 		)
 	)
+	(global_label "CLK_5v_unbuffered"
+		(shape input)
+		(at 99.06 160.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee879c8d-2291-4992-b1a1-e58cb1f79098")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.2346 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D2"
 		(shape input)
 		(at 194.31 107.95 180)
@@ -1865,6 +1997,72 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0223b9c6-2bb8-4b12-af91-5081566213a2")
+		(property "Reference" "#PWR0106"
+			(at 106.68 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e57e317d-0b5a-486b-948a-26d46d941e3c")
+		)
+		(instances
+			(project "nano_sequencer"
+				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23"
+					(reference "#PWR0106")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2091,7 +2289,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS125")
-		(at 118.11 170.18 0)
+		(at 106.68 181.61 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2100,7 +2298,7 @@
 		(fields_autoplaced yes)
 		(uuid "379951d6-88d6-4fef-866c-623a82883997")
 		(property "Reference" "U101"
-			(at 118.11 161.29 0)
+			(at 106.68 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2108,15 +2306,15 @@
 			)
 		)
 		(property "Value" "74LS125"
-			(at 118.11 163.83 0)
+			(at 106.68 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 118.11 170.18 0)
+		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+			(at 106.68 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2125,7 +2323,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS125"
-			(at 118.11 170.18 0)
+			(at 106.68 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2134,7 +2332,7 @@
 			)
 		)
 		(property "Description" "Quad buffer 3-State outputs"
-			(at 118.11 170.18 0)
+			(at 106.68 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2195,7 +2393,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS125")
-		(at 119.38 191.77 0)
+		(at 132.08 160.02 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2204,7 +2402,7 @@
 		(fields_autoplaced yes)
 		(uuid "75c2f430-0b2c-4f8e-b694-36dbc3187063")
 		(property "Reference" "U101"
-			(at 119.38 182.88 0)
+			(at 132.08 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2212,15 +2410,15 @@
 			)
 		)
 		(property "Value" "74LS125"
-			(at 119.38 185.42 0)
+			(at 132.08 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 119.38 191.77 0)
+		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+			(at 132.08 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2229,7 +2427,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS125"
-			(at 119.38 191.77 0)
+			(at 132.08 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2238,7 +2436,7 @@
 			)
 		)
 		(property "Description" "Quad buffer 3-State outputs"
-			(at 119.38 191.77 0)
+			(at 132.08 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2325,7 +2523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
 			(at 255.27 106.68 0)
 			(effects
 				(font
@@ -2470,8 +2668,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 106.68 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1a1897f-0779-4d45-9bea-1239c74026ca")
+		(property "Reference" "#PWR0107"
+			(at 106.68 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ffbefb03-ba09-4b14-b62e-3fcfa615468b")
+		)
+		(instances
+			(project "nano_sequencer"
+				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "74xx:74LS125")
-		(at 67.31 186.69 0)
+		(at 106.68 160.02 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2480,7 +2744,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1d48581-8dd7-46e7-904b-3d4920d3ca53")
 		(property "Reference" "U101"
-			(at 67.31 177.8 0)
+			(at 106.68 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2488,15 +2752,15 @@
 			)
 		)
 		(property "Value" "74LS125"
-			(at 67.31 180.34 0)
+			(at 106.68 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 67.31 186.69 0)
+		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+			(at 106.68 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +2769,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS125"
-			(at 67.31 186.69 0)
+			(at 106.68 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2778,7 @@
 			)
 		)
 		(property "Description" "Quad buffer 3-State outputs"
-			(at 67.31 186.69 0)
+			(at 106.68 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2842,7 +3106,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS125")
-		(at 76.2 163.83 0)
+		(at 49.53 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2851,7 +3115,7 @@
 		(fields_autoplaced yes)
 		(uuid "ecccafa0-035a-4b0a-8cda-e93fbc567428")
 		(property "Reference" "U101"
-			(at 76.2 154.94 0)
+			(at 49.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2859,15 +3123,15 @@
 			)
 		)
 		(property "Value" "74LS125"
-			(at 76.2 157.48 0)
+			(at 49.53 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 76.2 163.83 0)
+		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+			(at 49.53 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,7 +3140,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS125"
-			(at 76.2 163.83 0)
+			(at 49.53 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2885,7 +3149,7 @@
 			)
 		)
 		(property "Description" "Quad buffer 3-State outputs"
-			(at 76.2 163.83 0)
+			(at 49.53 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)

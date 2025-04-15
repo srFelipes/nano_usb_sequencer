@@ -3888,7 +3888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cb260ad-bce5-40f7-916c-09784952879e")
-		(property "Reference" "R610"
+		(property "Reference" "R608"
 			(at 123.19 92.7099 0)
 			(effects
 				(font
@@ -3942,7 +3942,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R610")
+					(reference "R608")
 					(unit 1)
 				)
 			)
@@ -4184,7 +4184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1734345d-e9a1-470f-84c6-6bfc31a49f05")
-		(property "Reference" "R606"
+		(property "Reference" "R605"
 			(at 92.71 92.7099 0)
 			(effects
 				(font
@@ -4238,7 +4238,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R606")
+					(reference "R605")
 					(unit 1)
 				)
 			)
@@ -4536,7 +4536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27056a5e-9059-4813-9016-12ab48302245")
-		(property "Reference" "R614"
+		(property "Reference" "R612"
 			(at 163.83 92.7099 0)
 			(effects
 				(font
@@ -4590,7 +4590,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R614")
+					(reference "R612")
 					(unit 1)
 				)
 			)
@@ -5243,7 +5243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37a9cf79-7772-48d2-94e7-aa30b894b1a6")
-		(property "Reference" "R615"
+		(property "Reference" "R619"
 			(at 172.72 33.0199 0)
 			(effects
 				(font
@@ -5297,7 +5297,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R615")
+					(reference "R619")
 					(unit 1)
 				)
 			)
@@ -5459,7 +5459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "440c025c-f888-45f3-8f76-fa172877b9c6")
-		(property "Reference" "R605"
+		(property "Reference" "R617"
 			(at 91.44 31.7499 0)
 			(effects
 				(font
@@ -5513,7 +5513,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R605")
+					(reference "R617")
 					(unit 1)
 				)
 			)
@@ -5881,7 +5881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d315c2e-46c9-4f4e-a225-b51047595b80")
-		(property "Reference" "R613"
+		(property "Reference" "R611"
 			(at 153.67 92.7099 0)
 			(effects
 				(font
@@ -5935,7 +5935,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R613")
+					(reference "R611")
 					(unit 1)
 				)
 			)
@@ -6020,7 +6020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516d626d-5d11-46de-a9c5-792c3b6ad3a2")
-		(property "Reference" "R616"
+		(property "Reference" "R613"
 			(at 173.99 92.7099 0)
 			(effects
 				(font
@@ -6074,7 +6074,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R616")
+					(reference "R613")
 					(unit 1)
 				)
 			)
@@ -6541,7 +6541,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6799dc83-2b76-4464-a7b8-51d2a428c637")
-		(property "Reference" "R608"
+		(property "Reference" "R606"
 			(at 102.87 92.7099 0)
 			(effects
 				(font
@@ -6595,7 +6595,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R608")
+					(reference "R606")
 					(unit 1)
 				)
 			)
@@ -6959,7 +6959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bd09972-7913-41c6-beeb-1fe38683953a")
-		(property "Reference" "R611"
+		(property "Reference" "R609"
 			(at 133.35 92.7099 0)
 			(effects
 				(font
@@ -7013,7 +7013,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R611")
+					(reference "R609")
 					(unit 1)
 				)
 			)
@@ -7421,7 +7421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92dbd6bb-cfee-41b5-91a4-e71997539367")
-		(property "Reference" "R612"
+		(property "Reference" "R610"
 			(at 143.51 92.7099 0)
 			(effects
 				(font
@@ -7475,7 +7475,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R612")
+					(reference "R610")
 					(unit 1)
 				)
 			)
@@ -7628,7 +7628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ea94339-e992-4329-925f-5c10b8f3a448")
-		(property "Reference" "R607"
+		(property "Reference" "R618"
 			(at 100.33 36.83 90)
 			(effects
 				(font
@@ -7680,7 +7680,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R607")
+					(reference "R618")
 					(unit 1)
 				)
 			)
@@ -8421,7 +8421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba1e318d-6468-488c-95da-4df6b4b804cd")
-		(property "Reference" "R620"
+		(property "Reference" "R616"
 			(at 204.47 92.7099 0)
 			(effects
 				(font
@@ -8475,7 +8475,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R620")
+					(reference "R616")
 					(unit 1)
 				)
 			)
@@ -8629,7 +8629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7980457-7a97-46c8-a765-0cd24205efec")
-		(property "Reference" "R609"
+		(property "Reference" "R607"
 			(at 113.03 92.7099 0)
 			(effects
 				(font
@@ -8683,7 +8683,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R609")
+					(reference "R607")
 					(unit 1)
 				)
 			)
@@ -8767,7 +8767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce6a4cbd-d61a-4a7e-8431-c069800cc972")
-		(property "Reference" "R618"
+		(property "Reference" "R614"
 			(at 184.15 92.7099 0)
 			(effects
 				(font
@@ -8821,7 +8821,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R618")
+					(reference "R614")
 					(unit 1)
 				)
 			)
@@ -8835,7 +8835,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d06f28df-5d1c-43ea-a781-8b9f2bc2d98a")
 		(property "Reference" "#PWR0603"
 			(at 67.31 55.88 0)
@@ -8904,7 +8903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7f69e30-c021-401a-9c00-045283f8e463")
-		(property "Reference" "R619"
+		(property "Reference" "R615"
 			(at 194.31 92.7099 0)
 			(effects
 				(font
@@ -8958,7 +8957,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R619")
+					(reference "R615")
 					(unit 1)
 				)
 			)
@@ -9245,7 +9244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e47edd85-5ecf-4d01-beeb-53552252f21c")
-		(property "Reference" "R617"
+		(property "Reference" "R620"
 			(at 181.61 38.1 90)
 			(effects
 				(font
@@ -9297,7 +9296,7 @@
 		(instances
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/ef302e78-da1b-4a46-affc-92636b526e4a"
-					(reference "R617")
+					(reference "R620")
 					(unit 1)
 				)
 			)

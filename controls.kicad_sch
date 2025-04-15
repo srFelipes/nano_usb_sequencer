@@ -9374,7 +9374,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "rotary:RotaryEncoder_Alps_EC11E_Vertical_H20mm"
+		(property "Footprint" "RotaryEncoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 202.946 151.13 0)
 			(effects
 				(font
@@ -14504,7 +14504,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "rotary:RotaryEncoder_Alps_EC11E_Vertical_H20mm"
+		(property "Footprint" "RotaryEncoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 247.396 151.13 0)
 			(effects
 				(font

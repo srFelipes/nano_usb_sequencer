@@ -2670,6 +2670,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 170.18 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a8f4a1ed-94d2-4844-b510-0705bbc7ede9")
 		)
@@ -2869,6 +2877,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 170.18 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3e97b024-70c9-481b-92a3-69e22e6b4bb8")
 		)
@@ -2934,6 +2950,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 170.18 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3135,6 +3159,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 170.18 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "56062f86-9b32-4f5d-a97d-903072a4e3cd")
 		)
@@ -3205,6 +3237,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C17414"
+			(at 140.97 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9fe811b2-18d9-4849-9cc7-1c2835f844ff")
 		)
@@ -3270,6 +3310,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 170.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3406,6 +3454,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17414"
+			(at 118.11 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -3606,6 +3662,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 88.9 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "25"
@@ -3822,6 +3886,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 170.18 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2ad0a9d0-7abc-4b3d-aa8f-cd20f31c458d")
 		)
@@ -3890,6 +3962,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 151.13 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "15"

@@ -3268,6 +3268,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 135.89) (xy 209.55 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "447598e2-d4c2-4933-a7cf-71dab691c480")
+	)
+	(wire
+		(pts
 			(xy 220.98 48.26) (xy 220.98 46.99)
 		)
 		(stroke
@@ -3575,6 +3585,16 @@
 			(type default)
 		)
 		(uuid "5bd11383-e8e5-4a97-a673-75e677587c02")
+	)
+	(wire
+		(pts
+			(xy 259.08 135.89) (xy 254 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf28360-c654-4e3b-9ef6-1b83ff1b07d0")
 	)
 	(wire
 		(pts
@@ -4858,6 +4878,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 135.89) (xy 254 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6435e32-95ed-41c1-aa20-8497c5927442")
+	)
+	(wire
+		(pts
 			(xy 34.29 33.02) (xy 34.29 30.48)
 		)
 		(stroke
@@ -5548,6 +5578,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 135.89) (xy 209.55 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec04e426-e03a-4293-9812-0192e6b0728d")
+	)
+	(wire
+		(pts
 			(xy 171.45 41.91) (xy 172.72 41.91)
 		)
 		(stroke
@@ -5994,7 +6034,7 @@
 	)
 	(global_label "D5"
 		(shape input)
-		(at 204.47 137.16 90)
+		(at 248.92 137.16 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6004,7 +6044,7 @@
 		)
 		(uuid "93f2847d-2015-4f1f-b6d8-a9521887e004")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.47 131.6953 90)
+			(at 248.92 131.6953 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6060,7 +6100,7 @@
 	)
 	(global_label "D4"
 		(shape input)
-		(at 248.92 137.16 90)
+		(at 204.47 137.16 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6070,7 +6110,7 @@
 		)
 		(uuid "9b4aa97d-0296-46c4-bf91-e2ab1f27be79")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.92 131.6953 90)
+			(at 204.47 131.6953 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9637,6 +9677,73 @@
 			(project ""
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/9e5f6a1e-2800-4dbb-afe9-cca317b92691"
 					(reference "R501")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 259.08 135.89 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "512f8fa7-315a-4a2f-b1c6-a961414d5731")
+		(property "Reference" "#PWR0572"
+			(at 259.08 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 259.08 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 259.08 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 259.08 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11327217-e922-4f62-a09c-d9d26c6af165")
+		)
+		(instances
+			(project "nano_sequencer"
+				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/9e5f6a1e-2800-4dbb-afe9-cca317b92691"
+					(reference "#PWR0572")
 					(unit 1)
 				)
 			)
@@ -14272,6 +14379,73 @@
 			(project "nano_sequencer"
 				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/9e5f6a1e-2800-4dbb-afe9-cca317b92691"
 					(reference "#PWR0562")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 214.63 135.89 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "beeea0d6-c922-43ec-b04c-6add32e9c234")
+		(property "Reference" "#PWR0571"
+			(at 214.63 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 214.63 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 214.63 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 214.63 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "17e60ccf-53ef-4392-9fad-315e86fcb58a")
+		)
+		(instances
+			(project "nano_sequencer"
+				(path "/335d65e6-88b4-479c-8bfd-74e13066bd23/9e5f6a1e-2800-4dbb-afe9-cca317b92691"
+					(reference "#PWR0571")
 					(unit 1)
 				)
 			)
